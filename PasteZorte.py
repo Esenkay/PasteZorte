@@ -8,7 +8,7 @@
 # Translated By Shadrack Kube(Esenkay)- Enovise
 # Reference: https://github.com/Esenkay/PasteZorte.git
 # Contact: https://www.linkedin.com/in/shadrack-kube/
-            shadykube@gmail.com
+#           shadykube@gmail.com
 ##############################################################################
 
 
