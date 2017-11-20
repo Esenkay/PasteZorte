@@ -401,7 +401,7 @@ OS_Objetivo=int(raw_input("""   Target Operating System:
    [2] Linux
    [3] Mac OSX
 
-   Objetivo: """))
+   Target: """))
 
 if (OS_Objetivo == 1):
 	Windows()
